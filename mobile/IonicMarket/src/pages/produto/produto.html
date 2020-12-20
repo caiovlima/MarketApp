@@ -1,0 +1,32 @@
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Novo Produto</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <form [formGroup]="form">
+    <ion-list>
+      <ion-item>
+        <ion-label floating>Id</ion-label>
+        <ion-input type="number" formControlName="produtoId"></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label floating>Nome</ion-label>
+        <ion-input type="text" formControlName="nome"></ion-input>
+      </ion-item>
+      <ion-item>
+          <ion-label floating>Preço</ion-label>
+          <ion-input type="number" formControlName="preco"></ion-input>
+        </ion-item>
+    </ion-list>
+  </form>
+
+  <button ion-button color="primary" outline block round (click)="salvar()">SALVAR</button>
+  <button ion-button color="secondary" outline block round (click)="cancelar()">CANCELAR</button>
+
+</ion-content>

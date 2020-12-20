@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>
+     
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-searchbar placeholder="O que você procura ? " 
+    
+    [showCancelButton]="true" 
+    (keyup.enter)="buscarProduto(produtos)"></ion-searchbar>
+  
+    
+
+    <ion-list no-lines>
+      <button ion-item (click)="detailProduto()" *ngFor="let item of produtos">
+        <p>
+          Nome
+
+        </p>
+        {{ item.nome }} 
+        <p>
+          R$
+        </p>{{item.preco}}
+      </button>
+    </ion-list>
+
+
+
+
+
+<ion-fab right bottom>
+  <button ion-fab color="primary" (click)="novoProduto()">
+    <ion-icon name="add"></ion-icon>
+  </button>
+</ion-fab>
+</ion-content>

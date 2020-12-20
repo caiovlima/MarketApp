@@ -1,0 +1,14 @@
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\bin\Release\netcoreapp2.0\Market.API.Domain.Core.deps.json
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\bin\Release\netcoreapp2.0\Market.API.Domain.Core.dll
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\bin\Release\netcoreapp2.0\Market.API.Domain.Core.pdb
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\bin\Release\netcoreapp2.0\Market.API.Data.dll
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\bin\Release\netcoreapp2.0\Market.API.Domain.dll
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\bin\Release\netcoreapp2.0\Market.API.Data.pdb
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\bin\Release\netcoreapp2.0\Market.API.Domain.pdb
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\obj\Release\netcoreapp2.0\Market.API.Domain.Core.csprojAssemblyReference.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\obj\Release\netcoreapp2.0\Market.API.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\obj\Release\netcoreapp2.0\Market.API.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\obj\Release\netcoreapp2.0\Market.API.Domain.Core.AssemblyInfo.cs
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\obj\Release\netcoreapp2.0\Market.API.Domain.Core.csproj.CopyComplete
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\obj\Release\netcoreapp2.0\Market.API.Domain.Core.dll
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain.Core\obj\Release\netcoreapp2.0\Market.API.Domain.Core.pdb

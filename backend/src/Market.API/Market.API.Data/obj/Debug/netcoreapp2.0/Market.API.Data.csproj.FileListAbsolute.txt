@@ -1,0 +1,12 @@
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\bin\Debug\netcoreapp2.0\Market.API.Data.deps.json
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\bin\Debug\netcoreapp2.0\Market.API.Data.dll
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\bin\Debug\netcoreapp2.0\Market.API.Data.pdb
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\bin\Debug\netcoreapp2.0\Market.API.Domain.dll
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\bin\Debug\netcoreapp2.0\Market.API.Domain.pdb
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\obj\Debug\netcoreapp2.0\Market.API.Data.csprojAssemblyReference.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\obj\Debug\netcoreapp2.0\Market.API.Data.csproj.CoreCompileInputs.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\obj\Debug\netcoreapp2.0\Market.API.Data.AssemblyInfoInputs.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\obj\Debug\netcoreapp2.0\Market.API.Data.AssemblyInfo.cs
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\obj\Debug\netcoreapp2.0\Market.API.Data.csproj.CopyComplete
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\obj\Debug\netcoreapp2.0\Market.API.Data.dll
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Data\obj\Debug\netcoreapp2.0\Market.API.Data.pdb

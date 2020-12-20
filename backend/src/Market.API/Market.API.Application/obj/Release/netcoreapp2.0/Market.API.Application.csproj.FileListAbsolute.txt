@@ -1,0 +1,4 @@
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Application\obj\Release\netcoreapp2.0\Market.API.Application.csprojAssemblyReference.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Application\obj\Release\netcoreapp2.0\Market.API.Application.csproj.CoreCompileInputs.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Application\obj\Release\netcoreapp2.0\Market.API.Application.AssemblyInfoInputs.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Application\obj\Release\netcoreapp2.0\Market.API.Application.AssemblyInfo.cs

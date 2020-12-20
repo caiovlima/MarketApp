@@ -1,0 +1,9 @@
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain\bin\Debug\netcoreapp2.0\Market.API.Domain.deps.json
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain\bin\Debug\netcoreapp2.0\Market.API.Domain.dll
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain\bin\Debug\netcoreapp2.0\Market.API.Domain.pdb
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain\obj\Debug\netcoreapp2.0\Market.API.Domain.csprojAssemblyReference.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain\obj\Debug\netcoreapp2.0\Market.API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain\obj\Debug\netcoreapp2.0\Market.API.Domain.AssemblyInfoInputs.cache
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain\obj\Debug\netcoreapp2.0\Market.API.Domain.AssemblyInfo.cs
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain\obj\Debug\netcoreapp2.0\Market.API.Domain.dll
+C:\Users\conta\OneDrive\Documentos\GitHub\Market\src\Market.API\Market.API.Domain\obj\Debug\netcoreapp2.0\Market.API.Domain.pdb
